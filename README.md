@@ -54,11 +54,11 @@ India’s farmers are hard at work. They help to feed a nation whose population 
 
 ## How to run on your local host?
 Prerequisite: Download all files from github
-
-1. Create new environment using command --> conda create -n env_name python==3.7.0
-2. Activate environment using command --> conda activate env_name
-3. Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
-4. Now run app.py by writing command --> python app.py
+1. Download Anaconda community edition
+2. Create new environment using command --> conda create -n env_name python==3.7.0
+3. Activate environment using command --> conda activate env_name
+4. Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
+5. Now run app.py by writing command --> python app.py
 
 
 
